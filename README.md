@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Student @Dr.N.G.P. Institute of Technology<br>Here's my [Portfolio](https://deenan-portfolio.netlify.app/)<br>I'm currently learning WordPress</p>
+<p align="left">Student @Dr.N.G.P. Institute of Technology<br>Here's my <a href="https://deenan-portfolio.netlify.app/">Portfolio</a><br>I'm currently learning WordPress</p>
 
 ###
 
