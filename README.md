@@ -2,6 +2,10 @@
 
 ###
 
+<p align="left">Student @Dr.N.G.P. Institute of Technology<br>Here's my [Portfolio](https://deenan-portfolio.netlify.app/)<br>I'm currently learning WordPress</p>
+
+###
+
 <div align="center">
   <img src="https://profile-counter.glitch.me/Dee2909/count.svg?"  />
 </div>
@@ -31,6 +35,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="30" alt="arduino logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="30" alt="canva logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
 </div>
 
 ###
