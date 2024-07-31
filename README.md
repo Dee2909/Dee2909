@@ -4,13 +4,7 @@
 
 <p align="left">* Student @Dr.N.G.P. Institute of Technology<br>* Here's my <a href="https://deenan-portfolio.netlify.app/">Portfolio</a><br>* I'm currently learning WordPress</p>
 
-###
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/Dee2909/count.svg?"  />
-</div>
-
-###
 ## LeetCode Profile
 
 Check out my LeetCode profile for my latest problems and achievements:
@@ -18,7 +12,13 @@ Check out my LeetCode profile for my latest problems and achievements:
 [![LeetCode Stats](https://leetcard.jacoblin.cool/Deenan?theme=light&font=Tajawal)](https://leetcode.com/u/Deenan/)
 
 
+###
 
+<div align="center">
+  <img src="https://profile-counter.glitch.me/Dee2909/count.svg?"  />
+</div>
+
+###
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Dee2909&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Dee2909&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
