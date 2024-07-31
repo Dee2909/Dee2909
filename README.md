@@ -15,9 +15,8 @@
 
 Check out my LeetCode profile for my latest problems and achievements:
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/Deenan?theme=light&font=Tajawal)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/Deenan?theme=light&font=Tajawal)](https://leetcode.com/u/Deenan/)
 
-[Visit my LeetCode profile](https://leetcode.com/u/Deenan/)
 
 
 <div align="center">
